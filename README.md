@@ -1,4 +1,4 @@
-# SQL Project: Time Series Analysis in Sale Performance<br>
+# SQL Project: Time Series Analysis of Sale Performance<br>
 **Dataset:** <p>
 SuperStore Time Series Dataset: The dataset contains 20 columns, namely, Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer First Name, Customer Last Name, Segment, Address, Postal Code, Region, Product_ID, Category, Sub_Catrgory, Product Name, Sales, Quantity, Discount, Profit. <p>
 **Project idea:** Clean the data first and carry on Time Series Data Analysis.<p>
